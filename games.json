@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Royal Puzzle",
+    "description": "탈출! 곰사원 - Match-3 퍼즐",
+    "url": "https://royal-puzzle.vercel.app",
+    "tags": ["puzzle", "match-3", "phaser"]
+  },
+  {
+    "name": "Royal Puzzle 2",
+    "description": "Gem Match-3 퍼즐",
+    "url": "https://royal-puzzle-2.vercel.app",
+    "tags": ["puzzle", "match-3", "phaser"]
+  },
+  {
+    "name": "Royal Puzzle 3",
+    "description": "Match-3 퍼즐 (Godot 4)",
+    "url": "https://royal-puzzle-3.vercel.app",
+    "tags": ["puzzle", "match-3", "godot"]
+  },
+  {
+    "name": "Block Blast",
+    "description": "8x8 블록 배치 퍼즐",
+    "url": "https://block-blast-lake.vercel.app",
+    "tags": ["puzzle", "block", "godot"]
+  }
+]
